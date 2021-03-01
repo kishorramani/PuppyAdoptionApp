@@ -1,15 +1,20 @@
-# Put title of your app here
-
+# PuppyAdoptionApp
 <!--- Replace <OWNER> with your Github Username and <REPOSITORY> with the name of your repository. -->
 <!--- You can find both of these in the url bar when you open your repository in github. -->
-![Workflow result](https://github.com/<OWNER>/<REPOSITORY>/workflows/Check/badge.svg)
+<!---![Workflow result](https://github.com/<OWNER>/<REPOSITORY>/workflows/Check/badge.svg) -->
 
 
 ## :scroll: Description
+Finding that there are lots of street pet available who can't get adequate food and wodering here and there
+
+Also finding that there are lots of people availble who love to adopt pet and take care of them
+
+so creating demo app for those who want to adopt pet like Cat and Dog
 <!--- Describe your app in one or two sentences -->
 
 
 ## :bulb: Motivation and Context
+Just love to write code with jetpack compose
 <!--- Optionally point readers to interesting parts of your submission. -->
 <!--- What are you especially proud of? -->
 
